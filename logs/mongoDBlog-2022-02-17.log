@@ -1,0 +1,38 @@
+2022-02-17 23:01:26,030:INFO:Loading Mongo DB config
+2022-02-17 23:01:26,030:INFO:Reding config file
+2022-02-17 23:01:26,030:INFO:Setting Mongo settings
+2022-02-17 23:01:26,103:INFO:Loading Twitter API config
+2022-02-17 23:01:26,103:INFO:Reading config file
+2022-02-17 23:01:26,108:INFO:Setting restful variables
+2022-02-17 23:01:26,108:INFO:Configuration for local development
+2022-02-17 23:01:26,108:INFO:Searching for tweets
+2022-02-17 23:01:26,605:INFO:Finishing reading tweets
+2022-02-17 23:01:49,983:INFO:Loading Mongo DB config
+2022-02-17 23:01:49,983:INFO:Reding config file
+2022-02-17 23:01:49,983:INFO:Setting Mongo settings
+2022-02-17 23:01:50,015:INFO:Loading Twitter API config
+2022-02-17 23:01:50,017:INFO:Reading config file
+2022-02-17 23:01:50,017:INFO:Setting restful variables
+2022-02-17 23:01:50,017:INFO:Configuration for local development
+2022-02-17 23:01:50,017:INFO:Searching for tweets
+2022-02-17 23:01:50,493:INFO:Finishing reading tweets
+2022-02-17 23:02:29,375:INFO:Loading Mongo DB config
+2022-02-17 23:02:29,375:INFO:Reding config file
+2022-02-17 23:02:29,375:INFO:Setting Mongo settings
+2022-02-17 23:02:29,434:INFO:Loading Twitter API config
+2022-02-17 23:02:29,434:INFO:Reading config file
+2022-02-17 23:02:29,437:INFO:Setting restful variables
+2022-02-17 23:02:29,437:INFO:Configuration for local development
+2022-02-17 23:02:29,437:INFO:Searching for tweets
+2022-02-17 23:02:30,104:INFO:Finishing reading tweets
+2022-02-17 23:03:57,860:INFO:Loading Mongo DB config
+2022-02-17 23:03:57,860:INFO:Reding config file
+2022-02-17 23:03:57,860:INFO:Setting Mongo settings
+2022-02-17 23:03:57,925:INFO:Loading Twitter API config
+2022-02-17 23:03:57,925:INFO:Reading config file
+2022-02-17 23:03:57,930:INFO:Setting restful variables
+2022-02-17 23:03:57,931:INFO:Configuration for local development
+2022-02-17 23:03:57,931:INFO:Searching for tweets
+2022-02-17 23:04:01,172:INFO:Finishing reading tweets
+2022-02-17 23:04:01,172:INFO:Searching for tweets
+2022-02-17 23:04:02,261:INFO:Finishing reading tweets

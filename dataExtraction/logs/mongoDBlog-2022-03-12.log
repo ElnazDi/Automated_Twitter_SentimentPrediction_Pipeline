@@ -1,0 +1,49 @@
+2022-03-12 20:14:01,891:INFO:Loading Mongo DB config
+2022-03-12 20:14:01,891:INFO:Reding config file
+2022-03-12 20:14:01,891:INFO:Setting Mongo settings
+2022-03-12 20:14:01,891:ERROR:Problem initializing db  and collection
+Traceback (most recent call last):
+  File "C:\Users\paolo\Documents\Github\big-data-programming-2-october-2020-lettuce-tweet\dataExtraction\mongoDB.py", line 35, in _loadDBConnection
+    self.client = MongoClient(self.mongodb_connect)
+  File "C:\Users\paolo\Documents\Github\big-data-programming-2-october-2020-lettuce-tweet\mlflow-venv\lib\site-packages\pymongo\mongo_client.py", line 686, in __init__
+    res = uri_parser.parse_uri(
+  File "C:\Users\paolo\Documents\Github\big-data-programming-2-october-2020-lettuce-tweet\mlflow-venv\lib\site-packages\pymongo\uri_parser.py", line 463, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ C:\Users\paolo\Documents\Github\big-data-programming-2-october-2020-lettuce-tweet\mlflow-venv\Scripts\python.exe -m pip install "pymongo[srv]"
+2022-03-12 20:14:36,726:INFO:Loading Mongo DB config
+2022-03-12 20:14:36,726:INFO:Reding config file
+2022-03-12 20:14:36,726:INFO:Setting Mongo settings
+2022-03-12 20:14:36,794:INFO:database connected
+2022-03-12 20:14:37,673:INFO:tweets fetched for cleaning
+2022-03-12 20:14:37,689:INFO:tweets preprocessed
+2022-03-12 20:14:37,695:INFO:dropped duplicates
+2022-03-12 20:14:37,774:INFO:Insertion Done
+2022-03-12 20:14:40,218:INFO:Loading Mongo DB config
+2022-03-12 20:14:40,218:INFO:Reding config file
+2022-03-12 20:14:40,219:INFO:Setting Mongo settings
+2022-03-12 20:14:40,243:INFO:database connected
+2022-03-12 20:47:09,169:INFO:Loading Mongo DB config
+2022-03-12 20:47:09,170:INFO:Reding config file
+2022-03-12 20:47:09,170:INFO:Setting Mongo settings
+2022-03-12 20:47:09,264:INFO:database connected
+2022-03-12 20:47:10,294:INFO:tweets fetched for cleaning
+2022-03-12 20:47:10,301:INFO:tweets preprocessed
+2022-03-12 20:47:10,305:INFO:dropped duplicates
+2022-03-12 20:47:10,382:INFO:Insertion Done
+2022-03-12 20:47:46,544:INFO:Loading Mongo DB config
+2022-03-12 20:47:46,545:INFO:Reding config file
+2022-03-12 20:47:46,545:INFO:Setting Mongo settings
+2022-03-12 20:47:46,574:INFO:database connected
+2022-03-12 20:47:47,400:INFO:tweets fetched for cleaning
+2022-03-12 20:47:47,405:INFO:tweets preprocessed
+2022-03-12 20:47:47,408:INFO:dropped duplicates
+2022-03-12 20:47:47,479:INFO:Insertion Done
+2022-03-12 20:47:49,847:INFO:Loading Mongo DB config
+2022-03-12 20:47:49,847:INFO:Reding config file
+2022-03-12 20:47:49,847:INFO:Setting Mongo settings
+2022-03-12 20:47:49,876:INFO:database connected
+2022-03-12 20:47:51,510:INFO:Context impl SQLiteImpl.
+2022-03-12 20:47:51,510:INFO:Will assume non-transactional DDL.
+2022-03-12 20:48:08,093:INFO:Assets written to: ram://50ef8193-7929-4325-8880-59404d4fa8ef/assets
+2022-03-12 20:48:08,170:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001FD92CA0B80> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.

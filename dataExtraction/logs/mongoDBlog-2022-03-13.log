@@ -1,0 +1,1999 @@
+2022-03-13 10:03:46,912:INFO:Loading Mongo DB config
+2022-03-13 10:03:46,912:INFO:Reding config file
+2022-03-13 10:03:46,912:INFO:Setting Mongo settings
+2022-03-13 10:03:46,959:INFO:database connected
+2022-03-13 10:03:47,868:INFO:tweets fetched for cleaning
+2022-03-13 10:03:47,883:INFO:tweets preprocessed
+2022-03-13 10:03:47,883:INFO:dropped duplicates
+2022-03-13 10:03:47,946:INFO:Insertion Done
+2022-03-13 10:04:17,863:INFO:Loading Mongo DB config
+2022-03-13 10:04:17,863:INFO:Reding config file
+2022-03-13 10:04:17,863:INFO:Setting Mongo settings
+2022-03-13 10:04:17,910:INFO:database connected
+2022-03-13 10:04:18,929:INFO:tweets fetched for cleaning
+2022-03-13 10:04:18,929:INFO:tweets preprocessed
+2022-03-13 10:04:18,929:INFO:dropped duplicates
+2022-03-13 10:04:19,007:INFO:Insertion Done
+2022-03-13 10:05:16,207:INFO:Loading Mongo DB config
+2022-03-13 10:05:16,207:INFO:Reding config file
+2022-03-13 10:05:16,207:INFO:Setting Mongo settings
+2022-03-13 10:05:16,285:INFO:database connected
+2022-03-13 10:05:17,196:INFO:tweets fetched for cleaning
+2022-03-13 10:05:17,196:INFO:tweets preprocessed
+2022-03-13 10:05:17,196:INFO:dropped duplicates
+2022-03-13 10:05:17,289:INFO:Insertion Done
+2022-03-13 10:05:18,513:INFO:Loading Mongo DB config
+2022-03-13 10:05:18,513:INFO:Reding config file
+2022-03-13 10:05:18,514:INFO:Setting Mongo settings
+2022-03-13 10:05:18,585:INFO:database connected
+2022-03-13 10:05:20,096:INFO:Context impl SQLiteImpl.
+2022-03-13 10:05:20,096:INFO:Will assume non-transactional DDL.
+2022-03-13 10:05:35,919:INFO:Assets written to: ram://cf8b3660-3df9-40b7-b813-d2597c208e7f/assets
+2022-03-13 10:05:36,002:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000002B0996D6DA0> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 10:20:46,385:INFO:Loading Mongo DB config
+2022-03-13 10:20:46,385:INFO:Reding config file
+2022-03-13 10:20:46,385:INFO:Setting Mongo settings
+2022-03-13 10:20:46,444:INFO:database connected
+2022-03-13 10:20:47,501:INFO:tweets fetched for cleaning
+2022-03-13 10:20:47,506:INFO:tweets preprocessed
+2022-03-13 10:20:47,508:INFO:dropped duplicates
+2022-03-13 10:20:47,599:INFO:Insertion Done
+2022-03-13 10:20:48,422:INFO:Loading Mongo DB config
+2022-03-13 10:20:48,422:INFO:Reding config file
+2022-03-13 10:20:48,423:INFO:Setting Mongo settings
+2022-03-13 10:20:48,447:INFO:database connected
+2022-03-13 10:20:49,891:INFO:Context impl SQLiteImpl.
+2022-03-13 10:20:49,891:INFO:Will assume non-transactional DDL.
+2022-03-13 10:21:05,673:INFO:Assets written to: ram://bb655e23-bc4f-4c2e-ad03-571eea21d3fb/assets
+2022-03-13 10:21:05,751:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000028FB4042D70> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 10:57:59,003:INFO:Loading Mongo DB config
+2022-03-13 10:57:59,003:INFO:Reding config file
+2022-03-13 10:57:59,003:INFO:Setting Mongo settings
+2022-03-13 10:57:59,059:INFO:database connected
+2022-03-13 10:57:59,866:INFO:tweets fetched for cleaning
+2022-03-13 10:57:59,883:INFO:tweets preprocessed
+2022-03-13 10:57:59,885:INFO:dropped duplicates
+2022-03-13 10:57:59,943:INFO:Insertion Done
+2022-03-13 10:58:00,725:INFO:Loading Mongo DB config
+2022-03-13 10:58:00,725:INFO:Reding config file
+2022-03-13 10:58:00,726:INFO:Setting Mongo settings
+2022-03-13 10:58:00,747:INFO:database connected
+2022-03-13 10:58:02,155:INFO:Context impl SQLiteImpl.
+2022-03-13 10:58:02,155:INFO:Will assume non-transactional DDL.
+2022-03-13 10:58:19,331:INFO:Assets written to: ram://b1399b7f-db47-4908-8f1a-63b149981df8/assets
+2022-03-13 10:58:19,408:WARNING:<keras.layers.recurrent.LSTMCell object at 0x00000240F38570A0> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 11:00:51,897:INFO:Loading Mongo DB config
+2022-03-13 11:00:51,897:INFO:Reding config file
+2022-03-13 11:00:51,897:INFO:Setting Mongo settings
+2022-03-13 11:00:51,959:INFO:database connected
+2022-03-13 11:00:52,823:INFO:tweets fetched for cleaning
+2022-03-13 11:00:52,823:INFO:tweets preprocessed
+2022-03-13 11:00:52,823:INFO:dropped duplicates
+2022-03-13 11:00:52,917:INFO:Insertion Done
+2022-03-13 11:00:53,666:INFO:Loading Mongo DB config
+2022-03-13 11:00:53,666:INFO:Reding config file
+2022-03-13 11:00:53,666:INFO:Setting Mongo settings
+2022-03-13 11:00:53,689:INFO:database connected
+2022-03-13 11:00:55,110:INFO:Context impl SQLiteImpl.
+2022-03-13 11:00:55,110:INFO:Will assume non-transactional DDL.
+2022-03-13 11:01:11,466:INFO:Assets written to: ram://b72f59a9-283d-485f-b662-cd0bc386cc63/assets
+2022-03-13 11:01:11,539:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001E8C18C3D60> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 11:02:15,970:INFO:Loading Mongo DB config
+2022-03-13 11:02:15,970:INFO:Reding config file
+2022-03-13 11:02:15,971:INFO:Setting Mongo settings
+2022-03-13 11:02:16,027:INFO:database connected
+2022-03-13 11:02:16,938:INFO:tweets fetched for cleaning
+2022-03-13 11:02:16,942:INFO:tweets preprocessed
+2022-03-13 11:02:16,947:INFO:dropped duplicates
+2022-03-13 11:02:17,027:INFO:Insertion Done
+2022-03-13 11:02:17,774:INFO:Loading Mongo DB config
+2022-03-13 11:02:17,774:INFO:Reding config file
+2022-03-13 11:02:17,774:INFO:Setting Mongo settings
+2022-03-13 11:02:17,795:INFO:database connected
+2022-03-13 11:02:19,202:INFO:Context impl SQLiteImpl.
+2022-03-13 11:02:19,202:INFO:Will assume non-transactional DDL.
+2022-03-13 11:02:35,478:INFO:Assets written to: ram://e1944019-17d7-4370-a129-f1fd97afe28c/assets
+2022-03-13 11:02:35,550:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001A6FE7DFF10> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 13:52:10,423:INFO:Loading Mongo DB config
+2022-03-13 13:52:10,424:INFO:Reding config file
+2022-03-13 13:52:10,424:INFO:Setting Mongo settings
+2022-03-13 13:52:10,477:INFO:database connected
+2022-03-13 13:52:11,436:INFO:tweets fetched for cleaning
+2022-03-13 13:52:11,441:INFO:tweets preprocessed
+2022-03-13 13:52:11,443:INFO:dropped duplicates
+2022-03-13 13:52:11,543:INFO:Insertion Done
+2022-03-13 13:52:12,355:INFO:Loading Mongo DB config
+2022-03-13 13:52:12,355:INFO:Reding config file
+2022-03-13 13:52:12,355:INFO:Setting Mongo settings
+2022-03-13 13:52:12,392:INFO:database connected
+2022-03-13 13:52:13,782:INFO:Context impl SQLiteImpl.
+2022-03-13 13:52:13,782:INFO:Will assume non-transactional DDL.
+2022-03-13 13:52:29,665:INFO:Assets written to: ram://deadc126-bbca-4e3f-80a0-377f96b1c6ed/assets
+2022-03-13 13:52:29,740:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000027B9C7EBA60> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 13:52:36,841:INFO:Assets written to: ram://0b25841f-00c7-486d-bf1a-a68e5a5a97f3/assets
+2022-03-13 13:52:36,925:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000027B9C7EBA60> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 13:56:05,261:INFO:Loading Mongo DB config
+2022-03-13 13:56:05,261:INFO:Reding config file
+2022-03-13 13:56:05,262:INFO:Setting Mongo settings
+2022-03-13 13:56:05,320:INFO:database connected
+2022-03-13 13:56:06,399:INFO:tweets fetched for cleaning
+2022-03-13 13:56:06,404:INFO:tweets preprocessed
+2022-03-13 13:56:06,406:INFO:dropped duplicates
+2022-03-13 13:56:06,493:INFO:Insertion Done
+2022-03-13 13:56:07,302:INFO:Loading Mongo DB config
+2022-03-13 13:56:07,302:INFO:Reding config file
+2022-03-13 13:56:07,302:INFO:Setting Mongo settings
+2022-03-13 13:56:07,331:INFO:database connected
+2022-03-13 13:56:08,745:INFO:Context impl SQLiteImpl.
+2022-03-13 13:56:08,746:INFO:Will assume non-transactional DDL.
+2022-03-13 13:56:25,793:INFO:Assets written to: ram://c84e718b-7a8c-40db-9776-bb78bf969448/assets
+2022-03-13 13:56:25,868:WARNING:<keras.layers.recurrent.LSTMCell object at 0x00000249C1567A30> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 13:56:32,879:INFO:Assets written to: ram://87dd5d65-7521-466d-a44d-806b0ac86cc4/assets
+2022-03-13 13:56:32,951:WARNING:<keras.layers.recurrent.LSTMCell object at 0x00000249C1567A30> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:04:30,722:INFO:Loading Mongo DB config
+2022-03-13 14:04:30,722:INFO:Reding config file
+2022-03-13 14:04:30,722:INFO:Setting Mongo settings
+2022-03-13 14:04:30,778:INFO:database connected
+2022-03-13 14:04:31,731:INFO:tweets fetched for cleaning
+2022-03-13 14:04:31,736:INFO:tweets preprocessed
+2022-03-13 14:04:31,738:INFO:dropped duplicates
+2022-03-13 14:04:31,812:INFO:Insertion Done
+2022-03-13 14:04:32,554:INFO:Loading Mongo DB config
+2022-03-13 14:04:32,554:INFO:Reding config file
+2022-03-13 14:04:32,554:INFO:Setting Mongo settings
+2022-03-13 14:04:32,575:INFO:database connected
+2022-03-13 14:04:34,021:INFO:Context impl SQLiteImpl.
+2022-03-13 14:04:34,021:INFO:Will assume non-transactional DDL.
+2022-03-13 14:05:28,532:INFO:Assets written to: ram://5bac1ec5-100a-4bef-b6e0-3350e3e3d9e2/assets
+2022-03-13 14:05:28,610:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001E10CA9BA30> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:05:35,907:INFO:Assets written to: ram://fb19b3e2-95b4-49a0-bde9-a243889fc82c/assets
+2022-03-13 14:05:35,980:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001E10CA9BA30> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:06:05,399:INFO:Loading Mongo DB config
+2022-03-13 14:06:05,399:INFO:Reding config file
+2022-03-13 14:06:05,400:INFO:Setting Mongo settings
+2022-03-13 14:06:05,456:INFO:database connected
+2022-03-13 14:06:06,230:INFO:tweets fetched for cleaning
+2022-03-13 14:06:06,235:INFO:tweets preprocessed
+2022-03-13 14:06:06,237:INFO:dropped duplicates
+2022-03-13 14:06:06,312:INFO:Insertion Done
+2022-03-13 14:06:07,039:INFO:Loading Mongo DB config
+2022-03-13 14:06:07,039:INFO:Reding config file
+2022-03-13 14:06:07,039:INFO:Setting Mongo settings
+2022-03-13 14:06:07,060:INFO:database connected
+2022-03-13 14:06:08,457:INFO:Context impl SQLiteImpl.
+2022-03-13 14:06:08,457:INFO:Will assume non-transactional DDL.
+2022-03-13 14:07:54,671:INFO:Assets written to: ram://fe430266-f80d-4235-95ce-d537d35c55f1/assets
+2022-03-13 14:07:54,749:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000024CAC01BA90> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:08:01,898:INFO:Assets written to: ram://77efcc2d-76df-4252-b11e-4bb86b1aed45/assets
+2022-03-13 14:08:01,971:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000024CAC01BA90> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:10:38,179:INFO:Loading Mongo DB config
+2022-03-13 14:10:38,180:INFO:Reding config file
+2022-03-13 14:10:38,180:INFO:Setting Mongo settings
+2022-03-13 14:10:38,235:INFO:database connected
+2022-03-13 14:10:38,907:INFO:tweets fetched for cleaning
+2022-03-13 14:10:38,912:INFO:tweets preprocessed
+2022-03-13 14:10:38,914:INFO:dropped duplicates
+2022-03-13 14:10:38,996:INFO:Insertion Done
+2022-03-13 14:10:39,812:INFO:Loading Mongo DB config
+2022-03-13 14:10:39,812:INFO:Reding config file
+2022-03-13 14:10:39,812:INFO:Setting Mongo settings
+2022-03-13 14:10:39,832:INFO:database connected
+2022-03-13 14:10:56,842:INFO:Assets written to: ram://0c2aa23b-0719-4247-86d0-675fe027e297/assets
+2022-03-13 14:10:56,919:WARNING:<keras.layers.recurrent.LSTMCell object at 0x00000170679BD0C0> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:12:46,772:INFO:Loading Mongo DB config
+2022-03-13 14:12:46,772:INFO:Reding config file
+2022-03-13 14:12:46,772:INFO:Setting Mongo settings
+2022-03-13 14:12:46,837:INFO:database connected
+2022-03-13 14:12:47,494:INFO:tweets fetched for cleaning
+2022-03-13 14:12:47,499:INFO:tweets preprocessed
+2022-03-13 14:12:47,501:INFO:dropped duplicates
+2022-03-13 14:12:47,586:INFO:Insertion Done
+2022-03-13 14:12:48,409:INFO:Loading Mongo DB config
+2022-03-13 14:12:48,410:INFO:Reding config file
+2022-03-13 14:12:48,410:INFO:Setting Mongo settings
+2022-03-13 14:12:48,445:INFO:database connected
+2022-03-13 14:13:05,239:INFO:Assets written to: ram://7a0c8007-6fcb-4903-9bf0-60821470aa8e/assets
+2022-03-13 14:13:05,313:WARNING:<keras.layers.recurrent.LSTMCell object at 0x00000211522E1150> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:14:25,552:INFO:Loading Mongo DB config
+2022-03-13 14:14:25,552:INFO:Reding config file
+2022-03-13 14:14:25,552:INFO:Setting Mongo settings
+2022-03-13 14:14:25,605:INFO:database connected
+2022-03-13 14:14:26,242:INFO:tweets fetched for cleaning
+2022-03-13 14:14:26,247:INFO:tweets preprocessed
+2022-03-13 14:14:26,249:INFO:dropped duplicates
+2022-03-13 14:14:26,327:INFO:Insertion Done
+2022-03-13 14:14:27,114:INFO:Loading Mongo DB config
+2022-03-13 14:14:27,114:INFO:Reding config file
+2022-03-13 14:14:27,114:INFO:Setting Mongo settings
+2022-03-13 14:14:27,134:INFO:database connected
+2022-03-13 14:14:44,046:INFO:Assets written to: ram://4df4f814-9a2a-48d7-8ae3-b9da725093a9/assets
+2022-03-13 14:14:44,119:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000002E30414D150> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:21:01,136:INFO:Loading Mongo DB config
+2022-03-13 14:21:01,136:INFO:Reding config file
+2022-03-13 14:21:01,137:INFO:Setting Mongo settings
+2022-03-13 14:21:01,193:INFO:database connected
+2022-03-13 14:21:01,989:INFO:tweets fetched for cleaning
+2022-03-13 14:21:01,994:INFO:tweets preprocessed
+2022-03-13 14:21:01,996:INFO:dropped duplicates
+2022-03-13 14:21:02,070:INFO:Insertion Done
+2022-03-13 14:21:02,856:INFO:Loading Mongo DB config
+2022-03-13 14:21:02,856:INFO:Reding config file
+2022-03-13 14:21:02,856:INFO:Setting Mongo settings
+2022-03-13 14:21:02,881:INFO:database connected
+2022-03-13 14:21:19,173:INFO:Assets written to: ram://613dd379-21ae-4250-ba9b-338bbf0d3637/assets
+2022-03-13 14:21:19,252:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001F8E6EC5240> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:21:21,368:INFO:Assets written to: my_model\assets
+2022-03-13 14:21:21,445:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001F8E6EC5240> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 14:25:48,287:INFO:Loading Mongo DB config
+2022-03-13 14:25:48,287:INFO:Reding config file
+2022-03-13 14:25:48,288:INFO:Setting Mongo settings
+2022-03-13 14:25:48,347:INFO:database connected
+2022-03-13 14:25:49,111:INFO:tweets fetched for cleaning
+2022-03-13 14:25:49,116:INFO:tweets preprocessed
+2022-03-13 14:25:49,118:INFO:dropped duplicates
+2022-03-13 14:25:49,186:INFO:Insertion Done
+2022-03-13 14:25:49,977:INFO:Loading Mongo DB config
+2022-03-13 14:25:49,977:INFO:Reding config file
+2022-03-13 14:25:49,977:INFO:Setting Mongo settings
+2022-03-13 14:25:50,004:INFO:database connected
+2022-03-13 14:26:07,000:INFO:Assets written to: ../models\assets
+2022-03-13 14:26:07,078:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000022553605060> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 17:18:58,563:INFO:Loading Mongo DB config
+2022-03-13 17:18:58,563:INFO:Reding config file
+2022-03-13 17:18:58,570:INFO:Setting Mongo settings
+2022-03-13 17:18:58,667:INFO:database connected
+2022-03-13 17:19:43,069:INFO:Loading Mongo DB config
+2022-03-13 17:19:43,069:INFO:Reding config file
+2022-03-13 17:19:43,070:INFO:Setting Mongo settings
+2022-03-13 17:19:43,099:INFO:database connected
+2022-03-13 17:19:45,118:INFO:tweets fetched for prediction
+2022-03-13 17:19:52,120:INFO:tweets preprocessed
+2022-03-13 17:20:59,567:INFO:Loading Mongo DB config
+2022-03-13 17:20:59,568:INFO:Reding config file
+2022-03-13 17:20:59,568:INFO:Setting Mongo settings
+2022-03-13 17:20:59,638:INFO:database connected
+2022-03-13 17:21:01,220:INFO:tweets fetched for prediction
+2022-03-13 17:25:27,817:INFO:Loading Mongo DB config
+2022-03-13 17:25:27,817:INFO:Reding config file
+2022-03-13 17:25:27,817:INFO:Setting Mongo settings
+2022-03-13 17:25:27,892:INFO:database connected
+2022-03-13 17:25:29,693:INFO:tweets fetched for prediction
+2022-03-13 17:25:36,864:INFO:tweets preprocessed
+2022-03-13 17:29:43,656:INFO:Loading Mongo DB config
+2022-03-13 17:29:43,656:INFO:Reding config file
+2022-03-13 17:29:43,656:INFO:Setting Mongo settings
+2022-03-13 17:29:43,714:INFO:database connected
+2022-03-13 17:29:45,290:INFO:tweets fetched for prediction
+2022-03-13 17:29:52,451:INFO:tweets preprocessed
+2022-03-13 17:31:31,045:INFO:Loading Mongo DB config
+2022-03-13 17:31:31,045:INFO:Reding config file
+2022-03-13 17:31:31,046:INFO:Setting Mongo settings
+2022-03-13 17:31:31,139:INFO:database connected
+2022-03-13 17:31:32,689:INFO:tweets fetched for prediction
+2022-03-13 17:31:39,638:INFO:tweets preprocessed
+2022-03-13 17:32:50,373:INFO:Loading Mongo DB config
+2022-03-13 17:32:50,373:INFO:Reding config file
+2022-03-13 17:32:50,374:INFO:Setting Mongo settings
+2022-03-13 17:32:50,441:INFO:database connected
+2022-03-13 17:32:52,811:INFO:tweets fetched for prediction
+2022-03-13 17:32:59,882:INFO:tweets preprocessed
+2022-03-13 17:33:48,934:INFO:Loading Mongo DB config
+2022-03-13 17:33:48,934:INFO:Reding config file
+2022-03-13 17:33:48,934:INFO:Setting Mongo settings
+2022-03-13 17:33:48,966:INFO:database connected
+2022-03-13 17:33:51,082:INFO:tweets fetched for prediction
+2022-03-13 17:33:57,959:INFO:tweets preprocessed
+2022-03-13 17:35:02,809:INFO:Loading Mongo DB config
+2022-03-13 17:35:02,809:INFO:Reding config file
+2022-03-13 17:35:02,810:INFO:Setting Mongo settings
+2022-03-13 17:35:02,894:INFO:database connected
+2022-03-13 17:35:04,567:INFO:tweets fetched for prediction
+2022-03-13 17:35:11,559:INFO:tweets preprocessed
+2022-03-13 17:35:40,570:INFO:Loading Mongo DB config
+2022-03-13 17:35:40,570:INFO:Reding config file
+2022-03-13 17:35:40,570:INFO:Setting Mongo settings
+2022-03-13 17:35:40,598:INFO:database connected
+2022-03-13 17:35:42,180:INFO:tweets fetched for prediction
+2022-03-13 17:35:49,170:INFO:tweets preprocessed
+2022-03-13 17:36:33,948:INFO:Loading Mongo DB config
+2022-03-13 17:36:33,948:INFO:Reding config file
+2022-03-13 17:36:33,948:INFO:Setting Mongo settings
+2022-03-13 17:36:34,009:INFO:database connected
+2022-03-13 17:36:36,802:INFO:tweets fetched for prediction
+2022-03-13 17:36:43,844:INFO:tweets preprocessed
+2022-03-13 17:37:13,974:INFO:Loading Mongo DB config
+2022-03-13 17:37:13,974:INFO:Reding config file
+2022-03-13 17:37:13,975:INFO:Setting Mongo settings
+2022-03-13 17:37:14,001:INFO:database connected
+2022-03-13 17:37:15,807:INFO:tweets fetched for prediction
+2022-03-13 17:37:22,668:INFO:tweets preprocessed
+2022-03-13 17:38:37,164:INFO:Loading Mongo DB config
+2022-03-13 17:38:37,164:INFO:Reding config file
+2022-03-13 17:38:37,165:INFO:Setting Mongo settings
+2022-03-13 17:38:37,281:INFO:database connected
+2022-03-13 17:38:39,080:INFO:tweets fetched for prediction
+2022-03-13 17:38:46,221:INFO:tweets preprocessed
+2022-03-13 17:39:59,545:INFO:Loading Mongo DB config
+2022-03-13 17:39:59,545:INFO:Reding config file
+2022-03-13 17:39:59,546:INFO:Setting Mongo settings
+2022-03-13 17:39:59,602:INFO:database connected
+2022-03-13 17:40:01,164:INFO:tweets fetched for prediction
+2022-03-13 17:40:08,008:INFO:tweets preprocessed
+2022-03-13 17:42:06,922:INFO:Loading Mongo DB config
+2022-03-13 17:42:06,922:INFO:Reding config file
+2022-03-13 17:42:06,923:INFO:Setting Mongo settings
+2022-03-13 17:42:07,002:INFO:database connected
+2022-03-13 17:42:08,562:INFO:tweets fetched for prediction
+2022-03-13 17:43:19,187:INFO:Loading Mongo DB config
+2022-03-13 17:43:19,187:INFO:Reding config file
+2022-03-13 17:43:19,188:INFO:Setting Mongo settings
+2022-03-13 17:43:19,250:INFO:database connected
+2022-03-13 17:43:20,815:INFO:tweets fetched for prediction
+2022-03-13 17:44:06,490:INFO:Loading Mongo DB config
+2022-03-13 17:44:06,490:INFO:Reding config file
+2022-03-13 17:44:06,490:INFO:Setting Mongo settings
+2022-03-13 17:44:06,518:INFO:database connected
+2022-03-13 17:44:08,057:INFO:tweets fetched for prediction
+2022-03-13 17:45:56,518:INFO:Loading Mongo DB config
+2022-03-13 17:45:56,518:INFO:Reding config file
+2022-03-13 17:45:56,518:INFO:Setting Mongo settings
+2022-03-13 17:45:56,574:INFO:database connected
+2022-03-13 17:45:58,312:INFO:tweets fetched for prediction
+2022-03-13 17:48:29,303:INFO:Loading Mongo DB config
+2022-03-13 17:48:29,303:INFO:Reding config file
+2022-03-13 17:48:29,303:INFO:Setting Mongo settings
+2022-03-13 17:48:29,364:INFO:database connected
+2022-03-13 17:48:31,124:INFO:tweets fetched for prediction
+2022-03-13 17:49:24,381:INFO:Loading Mongo DB config
+2022-03-13 17:49:24,381:INFO:Reding config file
+2022-03-13 17:49:24,381:INFO:Setting Mongo settings
+2022-03-13 17:49:24,409:INFO:database connected
+2022-03-13 17:49:26,213:INFO:tweets fetched for prediction
+2022-03-13 17:49:33,221:WARNING:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000021FBA3E5E10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 17:49:34,730:WARNING:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000021FBA3E5480> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 17:55:59,476:INFO:Loading Mongo DB config
+2022-03-13 17:55:59,477:INFO:Reding config file
+2022-03-13 17:55:59,477:INFO:Setting Mongo settings
+2022-03-13 17:55:59,530:INFO:database connected
+2022-03-13 17:56:01,088:INFO:tweets fetched for prediction
+2022-03-13 17:56:08,388:WARNING:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000235FEC7A050> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 17:56:09,924:WARNING:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000235843E6E60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 17:56:30,358:INFO:Loading Mongo DB config
+2022-03-13 17:56:30,358:INFO:Reding config file
+2022-03-13 17:56:30,359:INFO:Setting Mongo settings
+2022-03-13 17:56:30,388:INFO:database connected
+2022-03-13 17:56:32,048:INFO:tweets fetched for prediction
+2022-03-13 17:56:39,004:WARNING:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000174D5D685E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 17:56:40,498:WARNING:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000174DA4B7D00> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 18:07:30,033:INFO:Loading Mongo DB config
+2022-03-13 18:07:30,033:INFO:Reding config file
+2022-03-13 18:07:30,033:INFO:Setting Mongo settings
+2022-03-13 18:07:30,111:INFO:database connected
+2022-03-13 18:07:31,948:INFO:tweets fetched for prediction
+2022-03-13 18:07:38,998:WARNING:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000212EF7D0550> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 18:07:40,597:WARNING:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000212F4EDB490> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-03-13 18:09:49,733:INFO:Loading Mongo DB config
+2022-03-13 18:09:49,733:INFO:Reding config file
+2022-03-13 18:09:49,733:INFO:Setting Mongo settings
+2022-03-13 18:09:49,791:INFO:database connected
+2022-03-13 18:09:51,771:INFO:tweets fetched for prediction
+2022-03-13 18:13:39,280:INFO:Loading Mongo DB config
+2022-03-13 18:13:39,281:INFO:Reding config file
+2022-03-13 18:13:39,281:INFO:Setting Mongo settings
+2022-03-13 18:13:39,336:INFO:database connected
+2022-03-13 18:13:41,473:INFO:tweets fetched for prediction2022-03-13 18:19:24,956:INFO:Loading Mongo DB config
+2022-03-13 18:19:24,956:INFO:Reding config file
+2022-03-13 18:19:24,957:INFO:Setting Mongo settings
+2022-03-13 18:19:25,014:INFO:database connected
+2022-03-13 18:19:27,034:INFO:tweets fetched for prediction 5883
+2022-03-13 18:19:27,276:INFO:Sentiment: anger
+2022-03-13 18:19:27,316:INFO:Sentiment: anger
+2022-03-13 18:19:27,352:INFO:Sentiment: anger
+2022-03-13 18:19:27,386:INFO:Sentiment: anger
+2022-03-13 18:19:27,423:INFO:Sentiment: anger
+2022-03-13 18:19:27,459:INFO:Sentiment: anger
+2022-03-13 18:19:27,497:INFO:Sentiment: anger
+2022-03-13 18:19:27,532:INFO:Sentiment: anger
+2022-03-13 18:19:27,566:INFO:Sentiment: anger
+2022-03-13 18:19:27,604:INFO:Sentiment: anger
+2022-03-13 18:19:27,638:INFO:Sentiment: anger
+2022-03-13 18:19:27,673:INFO:Sentiment: anger
+2022-03-13 18:19:27,708:INFO:Sentiment: anger
+2022-03-13 18:19:27,743:INFO:Sentiment: anger
+2022-03-13 18:19:27,778:INFO:Sentiment: anger
+2022-03-13 18:19:27,817:INFO:Sentiment: anger
+2022-03-13 18:19:27,856:INFO:Sentiment: anger
+2022-03-13 18:19:27,890:INFO:Sentiment: anger
+2022-03-13 18:19:27,925:INFO:Sentiment: anger
+2022-03-13 18:19:27,960:INFO:Sentiment: anger
+2022-03-13 18:19:27,994:INFO:Sentiment: anger
+2022-03-13 18:19:28,030:INFO:Sentiment: anger
+2022-03-13 18:19:28,064:INFO:Sentiment: anger
+2022-03-13 18:19:28,099:INFO:Sentiment: anger
+2022-03-13 18:19:28,136:INFO:Sentiment: anger
+2022-03-13 18:19:28,174:INFO:Sentiment: anger
+2022-03-13 18:19:28,210:INFO:Sentiment: anger
+2022-03-13 18:19:28,244:INFO:Sentiment: anger
+2022-03-13 18:19:28,279:INFO:Sentiment: anger
+2022-03-13 18:19:28,318:INFO:Sentiment: anger
+2022-03-13 18:19:28,354:INFO:Sentiment: anger
+2022-03-13 18:19:28,392:INFO:Sentiment: anger
+2022-03-13 18:19:28,427:INFO:Sentiment: anger
+2022-03-13 18:19:28,463:INFO:Sentiment: anger
+2022-03-13 18:19:28,502:INFO:Sentiment: anger
+2022-03-13 18:19:28,537:INFO:Sentiment: anger
+2022-03-13 18:19:28,571:INFO:Sentiment: anger
+2022-03-13 18:19:28,605:INFO:Sentiment: anger
+2022-03-13 18:19:28,640:INFO:Sentiment: anger
+2022-03-13 18:19:28,675:INFO:Sentiment: anger
+2022-03-13 18:19:28,712:INFO:Sentiment: anger
+2022-03-13 18:19:28,748:INFO:Sentiment: anger
+2022-03-13 18:19:28,782:INFO:Sentiment: anger
+2022-03-13 18:19:28,821:INFO:Sentiment: anger
+2022-03-13 18:19:28,856:INFO:Sentiment: anger
+2022-03-13 18:19:28,892:INFO:Sentiment: anger
+2022-03-13 18:19:28,926:INFO:Sentiment: anger
+2022-03-13 18:19:28,960:INFO:Sentiment: anger
+2022-03-13 18:19:28,997:INFO:Sentiment: anger
+2022-03-13 18:19:29,033:INFO:Sentiment: anger
+2022-03-13 18:19:29,068:INFO:Sentiment: anger
+2022-03-13 18:19:29,103:INFO:Sentiment: anger
+2022-03-13 18:19:29,137:INFO:Sentiment: anger
+2022-03-13 18:19:29,176:INFO:Sentiment: anger
+2022-03-13 18:19:29,211:INFO:Sentiment: anger
+2022-03-13 18:19:29,246:INFO:Sentiment: anger
+2022-03-13 18:19:29,281:INFO:Sentiment: anger
+2022-03-13 18:19:29,316:INFO:Sentiment: anger
+2022-03-13 18:19:29,351:INFO:Sentiment: anger
+2022-03-13 18:19:29,386:INFO:Sentiment: anger
+2022-03-13 18:19:29,422:INFO:Sentiment: anger
+2022-03-13 18:19:29,457:INFO:Sentiment: anger
+2022-03-13 18:19:29,497:INFO:Sentiment: anger
+2022-03-13 18:19:29,533:INFO:Sentiment: anger
+2022-03-13 18:19:29,568:INFO:Sentiment: anger
+2022-03-13 18:19:29,603:INFO:Sentiment: anger
+2022-03-13 18:19:29,637:INFO:Sentiment: anger
+2022-03-13 18:19:29,671:INFO:Sentiment: anger
+2022-03-13 18:19:29,705:INFO:Sentiment: anger
+2022-03-13 18:19:29,741:INFO:Sentiment: anger
+2022-03-13 18:19:29,776:INFO:Sentiment: anger
+2022-03-13 18:19:29,811:INFO:Sentiment: anger
+2022-03-13 18:19:29,850:INFO:Sentiment: anger
+2022-03-13 18:19:29,884:INFO:Sentiment: anger
+2022-03-13 18:19:29,919:INFO:Sentiment: anger
+2022-03-13 18:19:29,954:INFO:Sentiment: anger
+2022-03-13 18:19:29,989:INFO:Sentiment: anger
+2022-03-13 18:19:30,024:INFO:Sentiment: anger
+2022-03-13 18:19:30,061:INFO:Sentiment: anger
+2022-03-13 18:19:30,098:INFO:Sentiment: anger
+2022-03-13 18:19:30,132:INFO:Sentiment: anger
+2022-03-13 18:19:30,173:INFO:Sentiment: anger
+2022-03-13 18:19:30,211:INFO:Sentiment: anger
+2022-03-13 18:19:30,248:INFO:Sentiment: anger
+2022-03-13 18:19:30,285:INFO:Sentiment: anger
+2022-03-13 18:19:30,323:INFO:Sentiment: anger
+2022-03-13 18:19:30,360:INFO:Sentiment: anger
+2022-03-13 18:19:30,397:INFO:Sentiment: anger
+2022-03-13 18:19:30,433:INFO:Sentiment: anger
+2022-03-13 18:19:30,471:INFO:Sentiment: anger
+2022-03-13 18:19:30,508:INFO:Sentiment: anger
+2022-03-13 18:19:30,553:INFO:Sentiment: anger
+2022-03-13 18:19:30,591:INFO:Sentiment: anger
+2022-03-13 18:19:30,631:INFO:Sentiment: anger
+2022-03-13 18:19:30,670:INFO:Sentiment: anger
+2022-03-13 18:19:30,711:INFO:Sentiment: anger
+2022-03-13 18:19:30,751:INFO:Sentiment: anger
+2022-03-13 18:19:30,789:INFO:Sentiment: anger
+2022-03-13 18:19:30,826:INFO:Sentiment: anger
+2022-03-13 18:19:30,864:INFO:Sentiment: anger
+2022-03-13 18:19:30,904:INFO:Sentiment: anger
+2022-03-13 18:19:30,941:INFO:Sentiment: anger
+2022-03-13 18:19:30,980:INFO:Sentiment: anger
+2022-03-13 18:19:31,016:INFO:Sentiment: anger
+2022-03-13 18:19:31,052:INFO:Sentiment: anger
+2022-03-13 18:19:31,089:INFO:Sentiment: anger
+2022-03-13 18:19:31,127:INFO:Sentiment: anger
+2022-03-13 18:19:31,163:INFO:Sentiment: anger
+2022-03-13 18:19:31,202:INFO:Sentiment: anger
+2022-03-13 18:19:31,239:INFO:Sentiment: anger
+2022-03-13 18:19:31,280:INFO:Sentiment: anger
+2022-03-13 18:19:31,315:INFO:Sentiment: anger
+2022-03-13 18:19:31,351:INFO:Sentiment: anger
+2022-03-13 18:19:31,387:INFO:Sentiment: anger
+2022-03-13 18:19:31,423:INFO:Sentiment: anger
+2022-03-13 18:19:31,460:INFO:Sentiment: anger
+2022-03-13 18:19:31,496:INFO:Sentiment: anger
+2022-03-13 18:19:31,532:INFO:Sentiment: anger
+2022-03-13 18:19:31,568:INFO:Sentiment: anger
+2022-03-13 18:19:31,612:INFO:Sentiment: anger
+2022-03-13 18:19:31,647:INFO:Sentiment: anger
+2022-03-13 18:19:31,686:INFO:Sentiment: anger
+2022-03-13 18:19:31,723:INFO:Sentiment: anger
+2022-03-13 18:19:31,760:INFO:Sentiment: anger
+2022-03-13 18:19:31,795:INFO:Sentiment: anger
+2022-03-13 18:19:31,832:INFO:Sentiment: anger
+2022-03-13 18:19:31,869:INFO:Sentiment: anger
+2022-03-13 18:19:31,907:INFO:Sentiment: anger
+2022-03-13 18:19:31,951:INFO:Sentiment: anger
+2022-03-13 18:19:31,997:INFO:Sentiment: anger
+2022-03-13 18:19:32,034:INFO:Sentiment: anger
+2022-03-13 18:19:32,081:INFO:Sentiment: anger
+2022-03-13 18:19:32,122:INFO:Sentiment: anger
+2022-03-13 18:19:32,160:INFO:Sentiment: anger
+2022-03-13 18:19:32,199:INFO:Sentiment: anger
+2022-03-13 18:19:32,234:INFO:Sentiment: anger
+2022-03-13 18:19:32,269:INFO:Sentiment: anger
+2022-03-13 18:19:32,306:INFO:Sentiment: anger
+2022-03-13 18:20:56,655:INFO:Loading Mongo DB config
+2022-03-13 18:20:56,655:INFO:Reding config file
+2022-03-13 18:20:56,655:INFO:Setting Mongo settings
+2022-03-13 18:20:56,722:INFO:database connected
+2022-03-13 18:20:58,136:INFO:tweets fetched for prediction 0
+2022-03-13 18:23:33,871:INFO:Loading Mongo DB config
+2022-03-13 18:23:33,871:INFO:Reding config file
+2022-03-13 18:23:33,871:INFO:Setting Mongo settings
+2022-03-13 18:23:33,949:INFO:database connected
+2022-03-13 18:23:35,356:INFO:tweets fetched for prediction 0
+2022-03-13 18:25:12,955:INFO:Loading Mongo DB config
+2022-03-13 18:25:12,955:INFO:Reding config file
+2022-03-13 18:25:12,955:INFO:Setting Mongo settings
+2022-03-13 18:25:13,011:INFO:database connected
+2022-03-13 18:25:14,372:INFO:tweets fetched for prediction 0
+2022-03-13 18:26:23,567:INFO:Loading Mongo DB config
+2022-03-13 18:26:23,567:INFO:Reding config file
+2022-03-13 18:26:23,567:INFO:Setting Mongo settings
+2022-03-13 18:26:23,632:INFO:database connected
+2022-03-13 18:26:25,141:INFO:tweets fetched for prediction 198
+2022-03-13 18:26:25,439:INFO:Sentiment: anger
+2022-03-13 18:26:25,473:INFO:Sentiment: anger
+2022-03-13 18:26:25,509:INFO:Sentiment: anger
+2022-03-13 18:26:25,544:INFO:Sentiment: anger
+2022-03-13 18:26:25,579:INFO:Sentiment: anger
+2022-03-13 18:26:25,622:INFO:Sentiment: anger
+2022-03-13 18:26:25,658:INFO:Sentiment: anger
+2022-03-13 18:26:25,694:INFO:Sentiment: anger
+2022-03-13 18:26:25,728:INFO:Sentiment: anger
+2022-03-13 18:26:25,766:INFO:Sentiment: anger
+2022-03-13 18:26:25,801:INFO:Sentiment: anger
+2022-03-13 18:26:25,836:INFO:Sentiment: anger
+2022-03-13 18:26:25,870:INFO:Sentiment: anger
+2022-03-13 18:26:25,906:INFO:Sentiment: anger
+2022-03-13 18:26:25,941:INFO:Sentiment: anger
+2022-03-13 18:26:25,976:INFO:Sentiment: anger
+2022-03-13 18:26:26,011:INFO:Sentiment: anger
+2022-03-13 18:26:26,047:INFO:Sentiment: anger
+2022-03-13 18:26:26,090:INFO:Sentiment: anger
+2022-03-13 18:26:26,129:INFO:Sentiment: anger
+2022-03-13 18:26:26,165:INFO:Sentiment: anger
+2022-03-13 18:26:26,201:INFO:Sentiment: anger
+2022-03-13 18:26:26,236:INFO:Sentiment: anger
+2022-03-13 18:26:26,271:INFO:Sentiment: anger
+2022-03-13 18:26:26,305:INFO:Sentiment: anger
+2022-03-13 18:26:26,342:INFO:Sentiment: anger
+2022-03-13 18:26:26,376:INFO:Sentiment: anger
+2022-03-13 18:26:26,411:INFO:Sentiment: anger
+2022-03-13 18:26:26,452:INFO:Sentiment: anger
+2022-03-13 18:26:26,488:INFO:Sentiment: anger
+2022-03-13 18:26:26,523:INFO:Sentiment: anger
+2022-03-13 18:26:26,558:INFO:Sentiment: anger
+2022-03-13 18:26:26,592:INFO:Sentiment: anger
+2022-03-13 18:26:26,629:INFO:Sentiment: anger
+2022-03-13 18:26:26,665:INFO:Sentiment: anger
+2022-03-13 18:26:26,700:INFO:Sentiment: anger
+2022-03-13 18:26:26,736:INFO:Sentiment: anger
+2022-03-13 18:26:26,771:INFO:Sentiment: anger
+2022-03-13 18:26:26,810:INFO:Sentiment: anger
+2022-03-13 18:26:26,845:INFO:Sentiment: anger
+2022-03-13 18:26:26,881:INFO:Sentiment: anger
+2022-03-13 18:26:26,919:INFO:Sentiment: anger
+2022-03-13 18:26:26,956:INFO:Sentiment: anger
+2022-03-13 18:26:26,999:INFO:Sentiment: anger
+2022-03-13 18:26:27,055:INFO:Sentiment: anger
+2022-03-13 18:26:27,099:INFO:Sentiment: anger
+2022-03-13 18:26:27,136:INFO:Sentiment: anger
+2022-03-13 18:26:27,175:INFO:Sentiment: anger
+2022-03-13 18:26:27,212:INFO:Sentiment: anger
+2022-03-13 18:26:27,250:INFO:Sentiment: anger
+2022-03-13 18:26:27,285:INFO:Sentiment: anger
+2022-03-13 18:26:27,321:INFO:Sentiment: anger
+2022-03-13 18:26:27,357:INFO:Sentiment: anger
+2022-03-13 18:26:27,393:INFO:Sentiment: anger
+2022-03-13 18:26:27,428:INFO:Sentiment: anger
+2022-03-13 18:26:27,464:INFO:Sentiment: anger
+2022-03-13 18:26:27,502:INFO:Sentiment: anger
+2022-03-13 18:26:27,547:INFO:Sentiment: anger
+2022-03-13 18:26:27,582:INFO:Sentiment: anger
+2022-03-13 18:26:27,622:INFO:Sentiment: anger
+2022-03-13 18:26:27,666:INFO:Sentiment: anger
+2022-03-13 18:26:27,706:INFO:Sentiment: anger
+2022-03-13 18:26:27,742:INFO:Sentiment: anger
+2022-03-13 18:26:27,779:INFO:Sentiment: anger
+2022-03-13 18:26:27,815:INFO:Sentiment: anger
+2022-03-13 18:26:27,851:INFO:Sentiment: anger
+2022-03-13 18:26:27,893:INFO:Sentiment: anger
+2022-03-13 18:26:27,928:INFO:Sentiment: anger
+2022-03-13 18:26:27,962:INFO:Sentiment: anger
+2022-03-13 18:26:27,996:INFO:Sentiment: anger
+2022-03-13 18:26:28,030:INFO:Sentiment: anger
+2022-03-13 18:26:28,068:INFO:Sentiment: anger
+2022-03-13 18:26:28,104:INFO:Sentiment: anger
+2022-03-13 18:26:28,138:INFO:Sentiment: anger
+2022-03-13 18:26:28,172:INFO:Sentiment: anger
+2022-03-13 18:26:28,206:INFO:Sentiment: anger
+2022-03-13 18:26:28,247:INFO:Sentiment: anger
+2022-03-13 18:26:28,280:INFO:Sentiment: anger
+2022-03-13 18:26:28,316:INFO:Sentiment: anger
+2022-03-13 18:26:28,350:INFO:Sentiment: anger
+2022-03-13 18:26:28,385:INFO:Sentiment: anger
+2022-03-13 18:26:28,418:INFO:Sentiment: anger
+2022-03-13 18:26:28,452:INFO:Sentiment: anger
+2022-03-13 18:26:28,486:INFO:Sentiment: anger
+2022-03-13 18:26:28,523:INFO:Sentiment: anger
+2022-03-13 18:26:28,563:INFO:Sentiment: anger
+2022-03-13 18:26:28,598:INFO:Sentiment: anger
+2022-03-13 18:26:28,632:INFO:Sentiment: anger
+2022-03-13 18:26:28,668:INFO:Sentiment: anger
+2022-03-13 18:26:28,702:INFO:Sentiment: anger
+2022-03-13 18:26:28,737:INFO:Sentiment: anger
+2022-03-13 18:26:28,772:INFO:Sentiment: anger
+2022-03-13 18:26:28,808:INFO:Sentiment: anger
+2022-03-13 18:26:28,844:INFO:Sentiment: anger
+2022-03-13 18:26:28,880:INFO:Sentiment: anger
+2022-03-13 18:26:28,920:INFO:Sentiment: anger
+2022-03-13 18:26:28,955:INFO:Sentiment: anger
+2022-03-13 18:26:28,989:INFO:Sentiment: anger
+2022-03-13 18:26:29,026:INFO:Sentiment: anger
+2022-03-13 18:26:29,062:INFO:Sentiment: anger
+2022-03-13 18:26:29,100:INFO:Sentiment: anger
+2022-03-13 18:26:29,135:INFO:Sentiment: anger
+2022-03-13 18:26:29,169:INFO:Sentiment: anger
+2022-03-13 18:26:29,206:INFO:Sentiment: anger
+2022-03-13 18:26:29,246:INFO:Sentiment: anger
+2022-03-13 18:26:29,285:INFO:Sentiment: anger
+2022-03-13 18:26:29,323:INFO:Sentiment: anger
+2022-03-13 18:26:29,358:INFO:Sentiment: anger
+2022-03-13 18:26:29,392:INFO:Sentiment: anger
+2022-03-13 18:26:29,427:INFO:Sentiment: anger
+2022-03-13 18:26:29,461:INFO:Sentiment: anger
+2022-03-13 18:26:29,496:INFO:Sentiment: anger
+2022-03-13 18:26:29,538:INFO:Sentiment: anger
+2022-03-13 18:26:29,573:INFO:Sentiment: anger
+2022-03-13 18:26:29,613:INFO:Sentiment: anger
+2022-03-13 18:26:29,647:INFO:Sentiment: anger
+2022-03-13 18:26:29,682:INFO:Sentiment: anger
+2022-03-13 18:26:29,715:INFO:Sentiment: anger
+2022-03-13 18:26:29,750:INFO:Sentiment: anger
+2022-03-13 18:26:29,784:INFO:Sentiment: anger
+2022-03-13 18:26:29,822:INFO:Sentiment: anger
+2022-03-13 18:26:29,857:INFO:Sentiment: anger
+2022-03-13 18:26:29,891:INFO:Sentiment: anger
+2022-03-13 18:26:29,932:INFO:Sentiment: anger
+2022-03-13 18:26:29,966:INFO:Sentiment: anger
+2022-03-13 18:26:30,001:INFO:Sentiment: anger
+2022-03-13 18:26:30,036:INFO:Sentiment: anger
+2022-03-13 18:26:30,071:INFO:Sentiment: anger
+2022-03-13 18:26:30,106:INFO:Sentiment: anger
+2022-03-13 18:26:30,141:INFO:Sentiment: anger
+2022-03-13 18:26:30,176:INFO:Sentiment: anger
+2022-03-13 18:26:30,211:INFO:Sentiment: anger
+2022-03-13 18:26:30,246:INFO:Sentiment: anger
+2022-03-13 18:26:30,291:INFO:Sentiment: anger
+2022-03-13 18:26:30,326:INFO:Sentiment: anger
+2022-03-13 18:26:30,360:INFO:Sentiment: anger
+2022-03-13 18:26:30,396:INFO:Sentiment: anger
+2022-03-13 18:26:30,434:INFO:Sentiment: anger
+2022-03-13 18:26:30,469:INFO:Sentiment: anger
+2022-03-13 18:26:30,503:INFO:Sentiment: anger
+2022-03-13 18:26:30,538:INFO:Sentiment: anger
+2022-03-13 18:26:30,572:INFO:Sentiment: anger
+2022-03-13 18:26:30,610:INFO:Sentiment: anger
+2022-03-13 18:26:30,645:INFO:Sentiment: anger
+2022-03-13 18:26:30,681:INFO:Sentiment: anger
+2022-03-13 18:26:30,716:INFO:Sentiment: anger
+2022-03-13 18:26:30,750:INFO:Sentiment: anger
+2022-03-13 18:26:30,793:INFO:Sentiment: anger
+2022-03-13 18:26:30,827:INFO:Sentiment: anger
+2022-03-13 18:26:30,863:INFO:Sentiment: anger
+2022-03-13 18:26:30,898:INFO:Sentiment: anger
+2022-03-13 18:26:30,933:INFO:Sentiment: anger
+2022-03-13 18:26:30,972:INFO:Sentiment: anger
+2022-03-13 18:26:31,009:INFO:Sentiment: anger
+2022-03-13 18:26:31,045:INFO:Sentiment: anger
+2022-03-13 18:26:31,080:INFO:Sentiment: anger
+2022-03-13 18:26:31,114:INFO:Sentiment: anger
+2022-03-13 18:26:31,157:INFO:Sentiment: anger
+2022-03-13 18:26:31,192:INFO:Sentiment: anger
+2022-03-13 18:26:31,226:INFO:Sentiment: anger
+2022-03-13 18:26:31,263:INFO:Sentiment: anger
+2022-03-13 18:26:31,302:INFO:Sentiment: anger
+2022-03-13 18:26:31,337:INFO:Sentiment: anger
+2022-03-13 18:26:31,371:INFO:Sentiment: anger
+2022-03-13 18:26:31,405:INFO:Sentiment: anger
+2022-03-13 18:26:31,440:INFO:Sentiment: anger
+2022-03-13 18:26:31,476:INFO:Sentiment: anger
+2022-03-13 18:26:31,515:INFO:Sentiment: anger
+2022-03-13 18:26:31,561:INFO:Sentiment: anger
+2022-03-13 18:26:31,597:INFO:Sentiment: anger
+2022-03-13 18:26:31,640:INFO:Sentiment: anger
+2022-03-13 18:26:31,682:INFO:Sentiment: anger
+2022-03-13 18:26:31,719:INFO:Sentiment: anger
+2022-03-13 18:26:31,753:INFO:Sentiment: anger
+2022-03-13 18:26:31,788:INFO:Sentiment: anger
+2022-03-13 18:26:31,823:INFO:Sentiment: anger
+2022-03-13 18:26:31,858:INFO:Sentiment: anger
+2022-03-13 18:26:31,894:INFO:Sentiment: anger
+2022-03-13 18:26:31,929:INFO:Sentiment: anger
+2022-03-13 18:26:31,964:INFO:Sentiment: anger
+2022-03-13 18:26:32,004:INFO:Sentiment: anger
+2022-03-13 18:26:32,040:INFO:Sentiment: anger
+2022-03-13 18:26:32,076:INFO:Sentiment: anger
+2022-03-13 18:26:32,115:INFO:Sentiment: anger
+2022-03-13 18:26:32,150:INFO:Sentiment: anger
+2022-03-13 18:26:32,185:INFO:Sentiment: anger
+2022-03-13 18:26:32,220:INFO:Sentiment: anger
+2022-03-13 18:26:32,255:INFO:Sentiment: anger
+2022-03-13 18:26:32,291:INFO:Sentiment: anger
+2022-03-13 18:26:32,327:INFO:Sentiment: anger
+2022-03-13 18:26:32,367:INFO:Sentiment: anger
+2022-03-13 18:26:32,403:INFO:Sentiment: anger
+2022-03-13 18:26:32,438:INFO:Sentiment: anger
+2022-03-13 18:26:32,473:INFO:Sentiment: anger
+2022-03-13 18:26:32,509:INFO:Sentiment: anger
+2022-03-13 18:26:32,544:INFO:Sentiment: anger
+2022-03-13 18:26:32,580:INFO:Sentiment: anger
+2022-03-13 18:26:32,615:INFO:Sentiment: anger
+2022-03-13 18:26:32,616:INFO:tweets preprocessed
+2022-03-13 18:28:27,098:INFO:Loading Mongo DB config
+2022-03-13 18:28:27,098:INFO:Reding config file
+2022-03-13 18:28:27,099:INFO:Setting Mongo settings
+2022-03-13 18:28:27,159:INFO:database connected
+2022-03-13 18:28:28,589:INFO:tweets fetched for prediction 198
+2022-03-13 18:28:28,890:INFO:Sentiment: anger
+2022-03-13 18:28:28,927:INFO:Sentiment: anger
+2022-03-13 18:28:28,963:INFO:Sentiment: anger
+2022-03-13 18:28:29,000:INFO:Sentiment: anger
+2022-03-13 18:28:29,039:INFO:Sentiment: anger
+2022-03-13 18:28:29,075:INFO:Sentiment: anger
+2022-03-13 18:28:29,111:INFO:Sentiment: anger
+2022-03-13 18:28:29,148:INFO:Sentiment: anger
+2022-03-13 18:28:29,188:INFO:Sentiment: anger
+2022-03-13 18:28:29,231:INFO:Sentiment: anger
+2022-03-13 18:28:29,272:INFO:Sentiment: anger
+2022-03-13 18:28:29,310:INFO:Sentiment: anger
+2022-03-13 18:28:29,346:INFO:Sentiment: anger
+2022-03-13 18:28:29,385:INFO:Sentiment: anger
+2022-03-13 18:28:29,424:INFO:Sentiment: anger
+2022-03-13 18:28:29,463:INFO:Sentiment: anger
+2022-03-13 18:28:29,504:INFO:Sentiment: anger
+2022-03-13 18:28:29,544:INFO:Sentiment: anger
+2022-03-13 18:28:29,582:INFO:Sentiment: anger
+2022-03-13 18:28:29,623:INFO:Sentiment: anger
+2022-03-13 18:28:29,659:INFO:Sentiment: anger
+2022-03-13 18:28:29,692:INFO:Sentiment: anger
+2022-03-13 18:28:29,726:INFO:Sentiment: anger
+2022-03-13 18:28:29,760:INFO:Sentiment: anger
+2022-03-13 18:28:29,795:INFO:Sentiment: anger
+2022-03-13 18:28:29,830:INFO:Sentiment: anger
+2022-03-13 18:28:29,865:INFO:Sentiment: anger
+2022-03-13 18:28:29,900:INFO:Sentiment: anger
+2022-03-13 18:28:29,938:INFO:Sentiment: anger
+2022-03-13 18:28:29,973:INFO:Sentiment: anger
+2022-03-13 18:28:30,008:INFO:Sentiment: anger
+2022-03-13 18:28:30,043:INFO:Sentiment: anger
+2022-03-13 18:28:30,079:INFO:Sentiment: anger
+2022-03-13 18:28:30,117:INFO:Sentiment: anger
+2022-03-13 18:28:30,152:INFO:Sentiment: anger
+2022-03-13 18:28:30,187:INFO:Sentiment: anger
+2022-03-13 18:28:30,223:INFO:Sentiment: anger
+2022-03-13 18:28:30,258:INFO:Sentiment: anger
+2022-03-13 18:28:30,298:INFO:Sentiment: anger
+2022-03-13 18:28:30,339:INFO:Sentiment: anger
+2022-03-13 18:28:30,375:INFO:Sentiment: anger
+2022-03-13 18:28:30,410:INFO:Sentiment: anger
+2022-03-13 18:28:30,451:INFO:Sentiment: anger
+2022-03-13 18:28:30,491:INFO:Sentiment: anger
+2022-03-13 18:28:30,527:INFO:Sentiment: anger
+2022-03-13 18:28:30,563:INFO:Sentiment: anger
+2022-03-13 18:28:30,597:INFO:Sentiment: anger
+2022-03-13 18:28:30,638:INFO:Sentiment: anger
+2022-03-13 18:28:30,675:INFO:Sentiment: anger
+2022-03-13 18:28:30,710:INFO:Sentiment: anger
+2022-03-13 18:28:30,746:INFO:Sentiment: anger
+2022-03-13 18:28:30,783:INFO:Sentiment: anger
+2022-03-13 18:28:30,818:INFO:Sentiment: anger
+2022-03-13 18:28:30,853:INFO:Sentiment: anger
+2022-03-13 18:28:30,892:INFO:Sentiment: anger
+2022-03-13 18:28:30,931:INFO:Sentiment: anger
+2022-03-13 18:28:30,967:INFO:Sentiment: anger
+2022-03-13 18:28:31,017:INFO:Sentiment: anger
+2022-03-13 18:28:31,061:INFO:Sentiment: anger
+2022-03-13 18:28:31,098:INFO:Sentiment: anger
+2022-03-13 18:28:31,132:INFO:Sentiment: anger
+2022-03-13 18:28:31,169:INFO:Sentiment: anger
+2022-03-13 18:28:31,206:INFO:Sentiment: anger
+2022-03-13 18:28:31,242:INFO:Sentiment: anger
+2022-03-13 18:28:31,280:INFO:Sentiment: anger
+2022-03-13 18:28:31,315:INFO:Sentiment: anger
+2022-03-13 18:28:31,354:INFO:Sentiment: anger
+2022-03-13 18:28:31,389:INFO:Sentiment: anger
+2022-03-13 18:28:31,424:INFO:Sentiment: anger
+2022-03-13 18:28:31,463:INFO:Sentiment: anger
+2022-03-13 18:28:31,500:INFO:Sentiment: anger
+2022-03-13 18:28:31,535:INFO:Sentiment: anger
+2022-03-13 18:28:31,570:INFO:Sentiment: anger
+2022-03-13 18:28:31,606:INFO:Sentiment: anger
+2022-03-13 18:28:31,643:INFO:Sentiment: anger
+2022-03-13 18:28:31,680:INFO:Sentiment: anger
+2022-03-13 18:28:31,720:INFO:Sentiment: anger
+2022-03-13 18:28:31,757:INFO:Sentiment: anger
+2022-03-13 18:28:31,793:INFO:Sentiment: anger
+2022-03-13 18:28:31,828:INFO:Sentiment: anger
+2022-03-13 18:28:31,864:INFO:Sentiment: anger
+2022-03-13 18:28:31,899:INFO:Sentiment: anger
+2022-03-13 18:28:31,935:INFO:Sentiment: anger
+2022-03-13 18:28:31,970:INFO:Sentiment: anger
+2022-03-13 18:28:32,005:INFO:Sentiment: anger
+2022-03-13 18:28:32,045:INFO:Sentiment: anger
+2022-03-13 18:28:32,079:INFO:Sentiment: anger
+2022-03-13 18:28:32,114:INFO:Sentiment: anger
+2022-03-13 18:28:32,148:INFO:Sentiment: anger
+2022-03-13 18:28:32,183:INFO:Sentiment: anger
+2022-03-13 18:28:32,219:INFO:Sentiment: anger
+2022-03-13 18:28:32,259:INFO:Sentiment: anger
+2022-03-13 18:28:32,315:INFO:Sentiment: anger
+2022-03-13 18:28:32,358:INFO:Sentiment: anger
+2022-03-13 18:28:32,398:INFO:Sentiment: anger
+2022-03-13 18:28:32,438:INFO:Sentiment: anger
+2022-03-13 18:28:32,475:INFO:Sentiment: anger
+2022-03-13 18:28:32,512:INFO:Sentiment: anger
+2022-03-13 18:28:32,553:INFO:Sentiment: anger
+2022-03-13 18:28:32,589:INFO:Sentiment: anger
+2022-03-13 18:28:32,624:INFO:Sentiment: anger
+2022-03-13 18:28:32,660:INFO:Sentiment: anger
+2022-03-13 18:28:32,695:INFO:Sentiment: anger
+2022-03-13 18:28:32,731:INFO:Sentiment: anger
+2022-03-13 18:28:32,771:INFO:Sentiment: anger
+2022-03-13 18:28:32,806:INFO:Sentiment: anger
+2022-03-13 18:28:32,843:INFO:Sentiment: anger
+2022-03-13 18:28:32,878:INFO:Sentiment: anger
+2022-03-13 18:28:32,915:INFO:Sentiment: anger
+2022-03-13 18:28:32,950:INFO:Sentiment: anger
+2022-03-13 18:28:32,986:INFO:Sentiment: anger
+2022-03-13 18:28:33,022:INFO:Sentiment: anger
+2022-03-13 18:28:33,060:INFO:Sentiment: anger
+2022-03-13 18:28:33,095:INFO:Sentiment: anger
+2022-03-13 18:28:33,136:INFO:Sentiment: anger
+2022-03-13 18:28:33,172:INFO:Sentiment: anger
+2022-03-13 18:28:33,208:INFO:Sentiment: anger
+2022-03-13 18:28:33,244:INFO:Sentiment: anger
+2022-03-13 18:28:33,288:INFO:Sentiment: anger
+2022-03-13 18:28:33,326:INFO:Sentiment: anger
+2022-03-13 18:28:33,367:INFO:Sentiment: anger
+2022-03-13 18:28:33,415:INFO:Sentiment: anger
+2022-03-13 18:28:33,451:INFO:Sentiment: anger
+2022-03-13 18:28:33,493:INFO:Sentiment: anger
+2022-03-13 18:28:33,531:INFO:Sentiment: anger
+2022-03-13 18:28:33,574:INFO:Sentiment: anger
+2022-03-13 18:28:33,610:INFO:Sentiment: anger
+2022-03-13 18:28:33,647:INFO:Sentiment: anger
+2022-03-13 18:28:33,682:INFO:Sentiment: anger
+2022-03-13 18:28:33,718:INFO:Sentiment: anger
+2022-03-13 18:28:33,752:INFO:Sentiment: anger
+2022-03-13 18:28:33,788:INFO:Sentiment: anger
+2022-03-13 18:28:33,823:INFO:Sentiment: anger
+2022-03-13 18:28:33,862:INFO:Sentiment: anger
+2022-03-13 18:28:33,899:INFO:Sentiment: anger
+2022-03-13 18:28:33,934:INFO:Sentiment: anger
+2022-03-13 18:28:33,969:INFO:Sentiment: anger
+2022-03-13 18:28:34,003:INFO:Sentiment: anger
+2022-03-13 18:28:34,039:INFO:Sentiment: anger
+2022-03-13 18:28:34,075:INFO:Sentiment: anger
+2022-03-13 18:28:34,113:INFO:Sentiment: anger
+2022-03-13 18:28:34,151:INFO:Sentiment: anger
+2022-03-13 18:28:34,193:INFO:Sentiment: anger
+2022-03-13 18:28:34,230:INFO:Sentiment: anger
+2022-03-13 18:28:34,265:INFO:Sentiment: anger
+2022-03-13 18:28:34,300:INFO:Sentiment: anger
+2022-03-13 18:28:34,336:INFO:Sentiment: anger
+2022-03-13 18:28:34,371:INFO:Sentiment: anger
+2022-03-13 18:28:34,407:INFO:Sentiment: anger
+2022-03-13 18:28:34,443:INFO:Sentiment: anger
+2022-03-13 18:28:34,478:INFO:Sentiment: anger
+2022-03-13 18:28:34,517:INFO:Sentiment: anger
+2022-03-13 18:28:34,556:INFO:Sentiment: anger
+2022-03-13 18:28:34,590:INFO:Sentiment: anger
+2022-03-13 18:28:34,625:INFO:Sentiment: anger
+2022-03-13 18:28:34,659:INFO:Sentiment: anger
+2022-03-13 18:28:34,693:INFO:Sentiment: anger
+2022-03-13 18:28:34,728:INFO:Sentiment: anger
+2022-03-13 18:28:34,763:INFO:Sentiment: anger
+2022-03-13 18:28:34,798:INFO:Sentiment: anger
+2022-03-13 18:28:34,834:INFO:Sentiment: anger
+2022-03-13 18:28:34,876:INFO:Sentiment: anger
+2022-03-13 18:28:34,915:INFO:Sentiment: anger
+2022-03-13 18:28:34,952:INFO:Sentiment: anger
+2022-03-13 18:28:34,987:INFO:Sentiment: anger
+2022-03-13 18:28:35,023:INFO:Sentiment: anger
+2022-03-13 18:28:35,059:INFO:Sentiment: anger
+2022-03-13 18:28:35,094:INFO:Sentiment: anger
+2022-03-13 18:28:35,131:INFO:Sentiment: anger
+2022-03-13 18:28:35,167:INFO:Sentiment: anger
+2022-03-13 18:28:35,202:INFO:Sentiment: anger
+2022-03-13 18:28:35,244:INFO:Sentiment: anger
+2022-03-13 18:28:35,283:INFO:Sentiment: anger
+2022-03-13 18:28:35,319:INFO:Sentiment: anger
+2022-03-13 18:28:35,354:INFO:Sentiment: anger
+2022-03-13 18:28:35,388:INFO:Sentiment: anger
+2022-03-13 18:28:35,424:INFO:Sentiment: anger
+2022-03-13 18:28:35,459:INFO:Sentiment: anger
+2022-03-13 18:28:35,494:INFO:Sentiment: anger
+2022-03-13 18:28:35,529:INFO:Sentiment: anger
+2022-03-13 18:28:35,567:INFO:Sentiment: anger
+2022-03-13 18:28:35,601:INFO:Sentiment: anger
+2022-03-13 18:28:35,636:INFO:Sentiment: anger
+2022-03-13 18:28:35,670:INFO:Sentiment: anger
+2022-03-13 18:28:35,707:INFO:Sentiment: anger
+2022-03-13 18:28:35,745:INFO:Sentiment: anger
+2022-03-13 18:28:35,780:INFO:Sentiment: anger
+2022-03-13 18:28:35,814:INFO:Sentiment: anger
+2022-03-13 18:28:35,849:INFO:Sentiment: anger
+2022-03-13 18:28:35,883:INFO:Sentiment: anger
+2022-03-13 18:28:35,922:INFO:Sentiment: anger
+2022-03-13 18:28:35,958:INFO:Sentiment: anger
+2022-03-13 18:28:35,993:INFO:Sentiment: anger
+2022-03-13 18:28:36,035:INFO:Sentiment: anger
+2022-03-13 18:28:36,071:INFO:Sentiment: anger
+2022-03-13 18:28:36,112:INFO:Sentiment: anger
+2022-03-13 18:28:36,152:INFO:Sentiment: anger
+2022-03-13 18:28:36,189:INFO:Sentiment: anger
+2022-03-13 18:28:36,190:INFO:tweets preprocessed
+2022-03-13 18:28:36,192:INFO:Update Failed
+2022-03-13 18:37:21,741:INFO:Loading Mongo DB config
+2022-03-13 18:37:21,741:INFO:Reding config file
+2022-03-13 18:37:21,741:INFO:Setting Mongo settings
+2022-03-13 18:37:21,803:INFO:connected to database
+2022-03-13 18:37:22,162:INFO:tweets fetched for polarity
+2022-03-13 18:37:22,275:INFO:tweets labelled for polarity
+2022-03-13 18:37:22,277:INFO:Update Failed
+2022-03-13 18:37:22,277:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,277:INFO:Update Failed
+2022-03-13 18:37:22,277:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,277:INFO:Update Failed
+2022-03-13 18:37:22,277:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,277:INFO:Update Failed
+2022-03-13 18:37:22,277:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,277:INFO:Update Failed
+2022-03-13 18:37:22,277:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,278:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,278:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,279:INFO:Update Failed
+2022-03-13 18:37:22,279:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,280:INFO:Update Failed
+2022-03-13 18:37:22,280:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,281:INFO:Update Failed
+2022-03-13 18:37:22,281:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,282:INFO:Update Failed
+2022-03-13 18:37:22,282:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,283:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,283:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,284:INFO:Update Failed
+2022-03-13 18:37:22,284:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,285:INFO:Update Failed
+2022-03-13 18:37:22,285:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,286:INFO:Update Failed
+2022-03-13 18:37:22,286:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,287:INFO:Update Failed
+2022-03-13 18:37:22,287:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,288:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,288:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,289:INFO:Update Failed
+2022-03-13 18:37:22,289:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,291:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,291:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,292:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,292:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,293:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,293:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,294:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,294:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,295:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,295:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,296:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,296:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,297:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:37:22,297:INFO:Update Failed
+2022-03-13 18:37:22,298:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:13,660:INFO:Loading Mongo DB config
+2022-03-13 18:43:13,660:INFO:Reding config file
+2022-03-13 18:43:13,660:INFO:Setting Mongo settings
+2022-03-13 18:43:13,717:INFO:connected to database
+2022-03-13 18:43:14,097:INFO:tweets fetched for polarity
+2022-03-13 18:43:14,218:INFO:tweets labelled for polarity
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,221:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,221:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,222:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,222:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,223:INFO:Update Failed
+2022-03-13 18:43:14,223:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,224:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,224:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,225:INFO:Update Failed
+2022-03-13 18:43:14,225:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,226:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,226:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,227:INFO:Update Failed
+2022-03-13 18:43:14,227:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,228:INFO:Update Failed
+2022-03-13 18:43:14,228:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,229:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,229:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,230:INFO:Update Failed
+2022-03-13 18:43:14,230:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,231:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,231:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,232:INFO:Update Failed
+2022-03-13 18:43:14,232:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,233:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,233:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,234:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,234:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,235:INFO:Update Failed
+2022-03-13 18:43:14,235:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,236:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,236:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,237:INFO:Update Failed
+2022-03-13 18:43:14,237:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,238:INFO:Update Failed
+2022-03-13 18:43:14,238:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,239:INFO:Update Failed
+2022-03-13 18:43:14,239:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,240:INFO:Update Failed
+2022-03-13 18:43:14,240:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:14,241:INFO:Update Failed
+2022-03-13 18:43:14,241:INFO:'Collection' object is not callable. If you meant to call the 'update' method on a 'Collection' object it is failing because no such method exists.
+2022-03-13 18:43:32,640:INFO:Loading Mongo DB config
+2022-03-13 18:43:32,640:INFO:Reding config file
+2022-03-13 18:43:32,641:INFO:Setting Mongo settings
+2022-03-13 18:43:32,667:INFO:database connected
+2022-03-13 18:43:34,099:INFO:tweets fetched for prediction 198
+2022-03-13 18:43:34,418:INFO:Sentiment: anger
+2022-03-13 18:43:34,454:INFO:Sentiment: anger
+2022-03-13 18:43:34,489:INFO:Sentiment: anger
+2022-03-13 18:43:34,527:INFO:Sentiment: anger
+2022-03-13 18:43:34,570:INFO:Sentiment: anger
+2022-03-13 18:43:34,610:INFO:Sentiment: anger
+2022-03-13 18:43:34,647:INFO:Sentiment: anger
+2022-03-13 18:43:34,682:INFO:Sentiment: anger
+2022-03-13 18:43:34,719:INFO:Sentiment: anger
+2022-03-13 18:43:34,758:INFO:Sentiment: anger
+2022-03-13 18:43:34,792:INFO:Sentiment: anger
+2022-03-13 18:43:34,826:INFO:Sentiment: anger
+2022-03-13 18:43:34,861:INFO:Sentiment: anger
+2022-03-13 18:43:34,896:INFO:Sentiment: anger
+2022-03-13 18:43:34,932:INFO:Sentiment: anger
+2022-03-13 18:43:34,967:INFO:Sentiment: anger
+2022-03-13 18:43:35,002:INFO:Sentiment: anger
+2022-03-13 18:43:35,040:INFO:Sentiment: anger
+2022-03-13 18:43:35,076:INFO:Sentiment: anger
+2022-03-13 18:43:35,118:INFO:Sentiment: anger
+2022-03-13 18:43:35,155:INFO:Sentiment: anger
+2022-03-13 18:43:35,192:INFO:Sentiment: anger
+2022-03-13 18:43:35,228:INFO:Sentiment: anger
+2022-03-13 18:43:35,264:INFO:Sentiment: anger
+2022-03-13 18:43:35,303:INFO:Sentiment: anger
+2022-03-13 18:43:35,340:INFO:Sentiment: anger
+2022-03-13 18:43:35,377:INFO:Sentiment: anger
+2022-03-13 18:43:35,416:INFO:Sentiment: anger
+2022-03-13 18:43:35,459:INFO:Sentiment: anger
+2022-03-13 18:43:35,495:INFO:Sentiment: anger
+2022-03-13 18:43:35,531:INFO:Sentiment: anger
+2022-03-13 18:43:35,567:INFO:Sentiment: anger
+2022-03-13 18:43:35,603:INFO:Sentiment: anger
+2022-03-13 18:43:35,638:INFO:Sentiment: anger
+2022-03-13 18:43:35,675:INFO:Sentiment: anger
+2022-03-13 18:43:35,711:INFO:Sentiment: anger
+2022-03-13 18:43:35,746:INFO:Sentiment: anger
+2022-03-13 18:43:35,780:INFO:Sentiment: anger
+2022-03-13 18:43:35,818:INFO:Sentiment: anger
+2022-03-13 18:43:35,860:INFO:Sentiment: anger
+2022-03-13 18:43:35,896:INFO:Sentiment: anger
+2022-03-13 18:43:35,932:INFO:Sentiment: anger
+2022-03-13 18:43:35,973:INFO:Sentiment: anger
+2022-03-13 18:43:36,012:INFO:Sentiment: anger
+2022-03-13 18:43:36,049:INFO:Sentiment: anger
+2022-03-13 18:43:36,084:INFO:Sentiment: anger
+2022-03-13 18:43:36,123:INFO:Sentiment: anger
+2022-03-13 18:43:36,162:INFO:Sentiment: anger
+2022-03-13 18:43:36,199:INFO:Sentiment: anger
+2022-03-13 18:43:36,235:INFO:Sentiment: anger
+2022-03-13 18:43:36,269:INFO:Sentiment: anger
+2022-03-13 18:43:36,305:INFO:Sentiment: anger
+2022-03-13 18:43:36,341:INFO:Sentiment: anger
+2022-03-13 18:43:36,376:INFO:Sentiment: anger
+2022-03-13 18:43:36,411:INFO:Sentiment: anger
+2022-03-13 18:43:36,446:INFO:Sentiment: anger
+2022-03-13 18:43:36,481:INFO:Sentiment: anger
+2022-03-13 18:43:36,521:INFO:Sentiment: anger
+2022-03-13 18:43:36,556:INFO:Sentiment: anger
+2022-03-13 18:43:36,592:INFO:Sentiment: anger
+2022-03-13 18:43:36,627:INFO:Sentiment: anger
+2022-03-13 18:43:36,663:INFO:Sentiment: anger
+2022-03-13 18:43:36,699:INFO:Sentiment: anger
+2022-03-13 18:43:36,735:INFO:Sentiment: anger
+2022-03-13 18:43:36,770:INFO:Sentiment: anger
+2022-03-13 18:43:36,805:INFO:Sentiment: anger
+2022-03-13 18:43:36,844:INFO:Sentiment: anger
+2022-03-13 18:43:36,879:INFO:Sentiment: anger
+2022-03-13 18:43:36,913:INFO:Sentiment: anger
+2022-03-13 18:43:36,947:INFO:Sentiment: anger
+2022-03-13 18:43:36,983:INFO:Sentiment: anger
+2022-03-13 18:43:37,018:INFO:Sentiment: anger
+2022-03-13 18:43:37,053:INFO:Sentiment: anger
+2022-03-13 18:43:37,088:INFO:Sentiment: anger
+2022-03-13 18:43:37,123:INFO:Sentiment: anger
+2022-03-13 18:43:37,159:INFO:Sentiment: anger
+2022-03-13 18:43:37,197:INFO:Sentiment: anger
+2022-03-13 18:43:37,231:INFO:Sentiment: anger
+2022-03-13 18:43:37,266:INFO:Sentiment: anger
+2022-03-13 18:43:37,301:INFO:Sentiment: anger
+2022-03-13 18:43:37,337:INFO:Sentiment: anger
+2022-03-13 18:43:37,373:INFO:Sentiment: anger
+2022-03-13 18:43:37,408:INFO:Sentiment: anger
+2022-03-13 18:43:37,442:INFO:Sentiment: anger
+2022-03-13 18:43:37,477:INFO:Sentiment: anger
+2022-03-13 18:43:37,515:INFO:Sentiment: anger
+2022-03-13 18:43:37,551:INFO:Sentiment: anger
+2022-03-13 18:43:37,586:INFO:Sentiment: anger
+2022-03-13 18:43:37,620:INFO:Sentiment: anger
+2022-03-13 18:43:37,655:INFO:Sentiment: anger
+2022-03-13 18:43:37,689:INFO:Sentiment: anger
+2022-03-13 18:43:37,724:INFO:Sentiment: anger
+2022-03-13 18:43:37,759:INFO:Sentiment: anger
+2022-03-13 18:43:37,794:INFO:Sentiment: anger
+2022-03-13 18:43:37,828:INFO:Sentiment: anger
+2022-03-13 18:43:37,868:INFO:Sentiment: anger
+2022-03-13 18:43:37,902:INFO:Sentiment: anger
+2022-03-13 18:43:37,936:INFO:Sentiment: anger
+2022-03-13 18:43:37,971:INFO:Sentiment: anger
+2022-03-13 18:43:38,006:INFO:Sentiment: anger
+2022-03-13 18:43:38,040:INFO:Sentiment: anger
+2022-03-13 18:43:38,075:INFO:Sentiment: anger
+2022-03-13 18:43:38,110:INFO:Sentiment: anger
+2022-03-13 18:43:38,146:INFO:Sentiment: anger
+2022-03-13 18:43:38,186:INFO:Sentiment: anger
+2022-03-13 18:43:38,223:INFO:Sentiment: anger
+2022-03-13 18:43:38,259:INFO:Sentiment: anger
+2022-03-13 18:43:38,293:INFO:Sentiment: anger
+2022-03-13 18:43:38,327:INFO:Sentiment: anger
+2022-03-13 18:43:38,362:INFO:Sentiment: anger
+2022-03-13 18:43:38,397:INFO:Sentiment: anger
+2022-03-13 18:43:38,431:INFO:Sentiment: anger
+2022-03-13 18:43:38,466:INFO:Sentiment: anger
+2022-03-13 18:43:38,500:INFO:Sentiment: anger
+2022-03-13 18:43:38,539:INFO:Sentiment: anger
+2022-03-13 18:43:38,577:INFO:Sentiment: anger
+2022-03-13 18:43:38,612:INFO:Sentiment: anger
+2022-03-13 18:43:38,649:INFO:Sentiment: anger
+2022-03-13 18:43:38,684:INFO:Sentiment: anger
+2022-03-13 18:43:38,721:INFO:Sentiment: anger
+2022-03-13 18:43:38,757:INFO:Sentiment: anger
+2022-03-13 18:43:38,793:INFO:Sentiment: anger
+2022-03-13 18:43:38,829:INFO:Sentiment: anger
+2022-03-13 18:43:38,869:INFO:Sentiment: anger
+2022-03-13 18:43:38,905:INFO:Sentiment: anger
+2022-03-13 18:43:38,942:INFO:Sentiment: anger
+2022-03-13 18:43:38,981:INFO:Sentiment: anger
+2022-03-13 18:43:39,019:INFO:Sentiment: anger
+2022-03-13 18:43:39,063:INFO:Sentiment: anger
+2022-03-13 18:43:39,104:INFO:Sentiment: anger
+2022-03-13 18:43:39,141:INFO:Sentiment: anger
+2022-03-13 18:43:39,178:INFO:Sentiment: anger
+2022-03-13 18:43:39,214:INFO:Sentiment: anger
+2022-03-13 18:43:39,254:INFO:Sentiment: anger
+2022-03-13 18:43:39,291:INFO:Sentiment: anger
+2022-03-13 18:43:39,326:INFO:Sentiment: anger
+2022-03-13 18:43:39,361:INFO:Sentiment: anger
+2022-03-13 18:43:39,398:INFO:Sentiment: anger
+2022-03-13 18:43:39,434:INFO:Sentiment: anger
+2022-03-13 18:43:39,469:INFO:Sentiment: anger
+2022-03-13 18:43:39,505:INFO:Sentiment: anger
+2022-03-13 18:43:39,541:INFO:Sentiment: anger
+2022-03-13 18:43:39,579:INFO:Sentiment: anger
+2022-03-13 18:43:39,613:INFO:Sentiment: anger
+2022-03-13 18:43:39,649:INFO:Sentiment: anger
+2022-03-13 18:43:39,685:INFO:Sentiment: anger
+2022-03-13 18:43:39,720:INFO:Sentiment: anger
+2022-03-13 18:43:39,754:INFO:Sentiment: anger
+2022-03-13 18:43:39,789:INFO:Sentiment: anger
+2022-03-13 18:43:39,824:INFO:Sentiment: anger
+2022-03-13 18:43:39,859:INFO:Sentiment: anger
+2022-03-13 18:43:39,898:INFO:Sentiment: anger
+2022-03-13 18:43:39,939:INFO:Sentiment: anger
+2022-03-13 18:43:39,974:INFO:Sentiment: anger
+2022-03-13 18:43:40,011:INFO:Sentiment: anger
+2022-03-13 18:43:40,046:INFO:Sentiment: anger
+2022-03-13 18:43:40,083:INFO:Sentiment: anger
+2022-03-13 18:43:40,119:INFO:Sentiment: anger
+2022-03-13 18:43:40,155:INFO:Sentiment: anger
+2022-03-13 18:43:40,191:INFO:Sentiment: anger
+2022-03-13 18:43:40,228:INFO:Sentiment: anger
+2022-03-13 18:43:40,268:INFO:Sentiment: anger
+2022-03-13 18:43:40,304:INFO:Sentiment: anger
+2022-03-13 18:43:40,344:INFO:Sentiment: anger
+2022-03-13 18:43:40,383:INFO:Sentiment: anger
+2022-03-13 18:43:40,424:INFO:Sentiment: anger
+2022-03-13 18:43:40,464:INFO:Sentiment: anger
+2022-03-13 18:43:40,503:INFO:Sentiment: anger
+2022-03-13 18:43:40,543:INFO:Sentiment: anger
+2022-03-13 18:43:40,580:INFO:Sentiment: anger
+2022-03-13 18:43:40,618:INFO:Sentiment: anger
+2022-03-13 18:43:40,662:INFO:Sentiment: anger
+2022-03-13 18:43:40,701:INFO:Sentiment: anger
+2022-03-13 18:43:40,740:INFO:Sentiment: anger
+2022-03-13 18:43:40,778:INFO:Sentiment: anger
+2022-03-13 18:43:40,815:INFO:Sentiment: anger
+2022-03-13 18:43:40,851:INFO:Sentiment: anger
+2022-03-13 18:43:40,886:INFO:Sentiment: anger
+2022-03-13 18:43:40,922:INFO:Sentiment: anger
+2022-03-13 18:43:40,957:INFO:Sentiment: anger
+2022-03-13 18:43:40,997:INFO:Sentiment: anger
+2022-03-13 18:43:41,035:INFO:Sentiment: anger
+2022-03-13 18:43:41,071:INFO:Sentiment: anger
+2022-03-13 18:43:41,107:INFO:Sentiment: anger
+2022-03-13 18:43:41,146:INFO:Sentiment: anger
+2022-03-13 18:43:41,186:INFO:Sentiment: anger
+2022-03-13 18:43:41,223:INFO:Sentiment: anger
+2022-03-13 18:43:41,261:INFO:Sentiment: anger
+2022-03-13 18:43:41,300:INFO:Sentiment: anger
+2022-03-13 18:43:41,336:INFO:Sentiment: anger
+2022-03-13 18:43:41,377:INFO:Sentiment: anger
+2022-03-13 18:43:41,413:INFO:Sentiment: anger
+2022-03-13 18:43:41,449:INFO:Sentiment: anger
+2022-03-13 18:43:41,485:INFO:Sentiment: anger
+2022-03-13 18:43:41,526:INFO:Sentiment: anger
+2022-03-13 18:43:41,561:INFO:Sentiment: anger
+2022-03-13 18:43:41,598:INFO:Sentiment: anger
+2022-03-13 18:43:41,634:INFO:Sentiment: anger
+2022-03-13 18:43:41,635:INFO:tweets preprocessed
+2022-03-13 18:43:41,751:INFO:Tweets with Prediction Done
+2022-03-13 21:11:03,793:INFO:Loading Mongo DB config
+2022-03-13 21:11:03,793:INFO:Reding config file
+2022-03-13 21:11:03,793:INFO:Setting Mongo settings
+2022-03-13 21:11:03,875:INFO:database connected
+2022-03-13 21:11:05,054:INFO:tweets fetched for cleaning
+2022-03-13 21:11:05,064:INFO:tweets preprocessed
+2022-03-13 21:11:05,069:INFO:dropped duplicates
+2022-03-13 21:11:05,143:INFO:Insertion Done
+2022-03-13 21:11:07,663:INFO:Loading Mongo DB config
+2022-03-13 21:11:07,663:INFO:Reding config file
+2022-03-13 21:11:07,664:INFO:Setting Mongo settings
+2022-03-13 21:11:07,782:INFO:database connected
+2022-03-13 21:13:13,442:INFO:Assets written to: ../models\assets
+2022-03-13 21:13:13,527:WARNING:<keras.layers.recurrent.LSTMCell object at 0x00000199877ECE50> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
+2022-03-13 21:14:18,085:INFO:Loading Mongo DB config
+2022-03-13 21:14:18,085:INFO:Reding config file
+2022-03-13 21:14:18,085:INFO:Setting Mongo settings
+2022-03-13 21:14:18,141:INFO:database connected
+2022-03-13 21:14:20,869:INFO:tweets fetched for cleaning
+2022-03-13 21:14:20,874:INFO:tweets preprocessed
+2022-03-13 21:14:20,877:INFO:dropped duplicates
+2022-03-13 21:14:21,004:INFO:Insertion Done
+2022-03-13 21:14:21,941:INFO:Loading Mongo DB config
+2022-03-13 21:14:21,941:INFO:Reding config file
+2022-03-13 21:14:21,942:INFO:Setting Mongo settings
+2022-03-13 21:14:21,991:INFO:database connected
+2022-03-13 21:15:16,806:INFO:Loading Mongo DB config
+2022-03-13 21:15:16,806:INFO:Reding config file
+2022-03-13 21:15:16,807:INFO:Setting Mongo settings
+2022-03-13 21:15:16,839:INFO:database connected
+2022-03-13 21:15:17,682:INFO:tweets fetched for cleaning
+2022-03-13 21:15:17,687:INFO:tweets preprocessed
+2022-03-13 21:15:17,690:INFO:dropped duplicates
+2022-03-13 21:15:17,752:INFO:Insertion Done
+2022-03-13 21:15:18,609:INFO:Loading Mongo DB config
+2022-03-13 21:15:18,609:INFO:Reding config file
+2022-03-13 21:15:18,609:INFO:Setting Mongo settings
+2022-03-13 21:15:18,710:INFO:database connected
+2022-03-13 21:20:48,530:INFO:Assets written to: ../models\assets
+2022-03-13 21:20:48,625:WARNING:<keras.layers.recurrent.LSTMCell object at 0x000001947984CEB0> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.

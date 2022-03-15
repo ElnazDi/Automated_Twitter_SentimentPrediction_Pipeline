@@ -1,0 +1,14 @@
+2022-03-14 14:04:31,365:INFO:Loading Mongo DB config
+2022-03-14 14:04:31,365:INFO:Reding config file
+2022-03-14 14:04:31,367:INFO:Setting Mongo settings
+2022-03-14 14:04:31,422:INFO:database connected
+2022-03-14 14:04:32,699:INFO:tweets fetched for cleaning
+2022-03-14 14:04:32,714:INFO:tweets preprocessed
+2022-03-14 14:04:32,720:INFO:dropped duplicates
+2022-03-14 14:04:32,801:INFO:Insertion Done
+2022-03-14 14:04:35,098:INFO:Loading Mongo DB config
+2022-03-14 14:04:35,098:INFO:Reding config file
+2022-03-14 14:04:35,098:INFO:Setting Mongo settings
+2022-03-14 14:04:35,118:INFO:database connected
+2022-03-14 14:09:26,150:INFO:Assets written to: ../models/my_model\assets
+2022-03-14 14:09:26,236:WARNING:<keras.layers.recurrent.LSTMCell object at 0x0000027007710E50> has the same name 'LSTMCell' as a built-in Keras object. Consider renaming <class 'keras.layers.recurrent.LSTMCell'> to avoid naming conflicts when loading with `tf.keras.models.load_model`. If renaming is not possible, pass the object in the `custom_objects` parameter of the load function.
